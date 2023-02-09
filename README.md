@@ -1,7 +1,7 @@
 <!-- mapGAN README -->
 <div align="center">
   <a href="https://github.com/KaipoCraft/mapGAN">
-    <img src="./images/generatedImagery.gif" alt="Logo" width="100" height="100">
+    <img src="./images/generatedImagery.gif" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">mapGAN</h3>
@@ -10,9 +10,9 @@
 This project is a collaboration between mjs-py and KaipoCraft to create a generative adversarial neural network that generates novel satellite imagery. This GAN would allow the creation of fantasy maps and a view into the common elements (visible from satellites) of the urban landscape found across the world's megacities.
 
 <div align="left">
-    <img src="./images/generatedImagery.gif" alt="Logo" width="100" height="100">
+    <img src="./data/yonkers-satellite-image.jpg" alt="Logo" width="250" height="250">
 
-    <p align="left"><i>Sample image from training data</i></p>
+    <p align="left">Sample image from training data</p>
 </div>
 
 ## Roadmap
