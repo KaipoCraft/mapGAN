@@ -4,7 +4,7 @@
     <img src="./images/generatedImagery.gif" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">mapGAN</h3>
+  <p align="center">gif of evolution of the output over 200 epochs</p>
 </div>
 
 ## About the Project
