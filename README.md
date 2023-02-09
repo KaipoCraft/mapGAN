@@ -6,13 +6,14 @@
 
   <h3 align="center">mapGAN</h3>
 </div>
+
 ## About the Project
+
 This project is a collaboration between mjs-py and KaipoCraft to create a generative adversarial neural network that generates novel satellite imagery. This GAN would allow the creation of fantasy maps and a view into the common elements (visible from satellites) of the urban landscape found across the world's megacities.
 
 <div align="left">
     <img src="./data/yonkers-satellite-image.jpg" alt="Logo" width="250" height="250">
-
-    <p align="left">Sample image from training data</p>
+    Sample image from training data
 </div>
 
 ## Roadmap
