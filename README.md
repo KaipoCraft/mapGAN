@@ -1,7 +1,7 @@
 <!-- mapGAN README -->
 <div align="center">
   <h1>mapGAN</h1>
-  <a href="https://github.com/KaipoCraft/mapGAN">
+  <a href="https://neillshikada.com/library/generatedImagery.gif">
     <img src="./images/generatedImagery.gif" alt="Logo" width="250" height="250">
   </a>
 
