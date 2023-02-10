@@ -8,6 +8,8 @@
   <p align="center">gif of evolution of the output over 200 epochs</p>
 </div>
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## About the Project
 
 This project is a collaboration between mjs-py and KaipoCraft to create a generative adversarial neural network that generates novel satellite imagery. This GAN would allow the creation of fantasy maps and a view into the common elements (visible from satellites) of the urban landscape found across the world's megacities.
