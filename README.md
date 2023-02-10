@@ -8,7 +8,7 @@
   <p align="center">gif of evolution of the output over 200 epochs</p>
 </div>
 
-![evolution of the output over 200 epochs](https://github.com/KaipoCraft/mapGAN/blob/main/images/generatedImagery.gif)
+![evolution of the output over 200 epochs](https://neillshikada.com/library/generatedImagery.gif)
 
 ## About the Project
 
